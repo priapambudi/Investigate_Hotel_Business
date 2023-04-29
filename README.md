@@ -7,7 +7,7 @@ Trying to find some insight from data with visualization
 - Checking total null
 - Delete and drop rows or column that have null
 
-### Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (EDA)
 - Count the booking by month
 - Create new column "Duration"
 - Find total cancelation by duration of stay
