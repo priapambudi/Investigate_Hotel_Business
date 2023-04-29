@@ -1,5 +1,5 @@
 # Investigate Hotel Business using Visualization
-Trying to find some insight from the data with visualization 
+Trying to find some insight from data with visualization 
 
 ### 1. Import and Read Data 
 ### 2. Data Preperation
